@@ -1,0 +1,3 @@
+C:/Users/tacke/Desktop/College Program/CS 315/Project 1/cmake-build-debug/CMakeFiles/CS_315.dir
+C:/Users/tacke/Desktop/College Program/CS 315/Project 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tacke/Desktop/College Program/CS 315/Project 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

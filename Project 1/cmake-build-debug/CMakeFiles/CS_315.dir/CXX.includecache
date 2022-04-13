@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tacke/Desktop/College Program/CS 315/Project 1/readFile.cpp
+iomanip
+-
+string
+-
+fstream
+-
+vector
+-
+utility
+-
+stdexcept
+-
+sstream
+-
+iostream
+-
+
