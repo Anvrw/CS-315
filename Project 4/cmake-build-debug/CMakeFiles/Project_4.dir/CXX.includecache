@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tacke/Desktop/College Program/CS 315/Project 4/main.cpp
+iostream
+-
+iomanip
+-
+utility
+-
+stdexcept
+-
+fstream
+-
+sstream
+-
+string
+-
+
